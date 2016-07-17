@@ -1,12 +1,11 @@
-Connectome Hackathon 2015      [![Picture](https://raw.github.com/janelia-flyem/janelia-flyem.github.com/master/images/HHMI_Janelia_Color_Alternate_180x40.png)](http://www.janelia.org)
+Seven Medulla Column Data Release (2015)      [![Picture](https://raw.github.com/janelia-flyem/janelia-flyem.github.com/master/images/HHMI_Janelia_Color_Alternate_180x40.png)](http://www.janelia.org)
 ====
-*Status: complete*
 
+**This data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/. A simple description of the license is provided [here](http://opendatacommons.org/licenses/by/summary/)**
 
-**This data cannot be used for biological discovery or biological publications before Fly EM publishes it.  For other purposes (general bio data analysis algorithms, etc), this data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/. A simple description of the license is provided [here](http://opendatacommons.org/licenses/by/summary/)**
+This data was released as part of the 2015 Connectome Hackathon and represents the connectome at a slightly earlier snapshot of our 2015 PNAS [paper](http://www.pnas.org/content/112/44/13711.abstract).
 
-
-Information for the Janelia Connectome Workshop and Hackathon 2015.  The repository contains files that will be useful for hackathon attendees.  See the [Hackathon Wiki](https://github.com/janelia-flyem/ConnectomeHackathon2015/wiki) for more information including documentation and use cases.
+See the [Hackathon Wiki](https://github.com/janelia-flyem/ConnectomeHackathon2015/wiki) for more information including documentation and use cases.
 
 The package includes (see the wiki for more detailed descriptions):
 * A directory of skeletons corresponding to the largest neurons in our dataset.  Each file is named by a unique body ID.
