@@ -5,7 +5,7 @@ Seven Medulla Column Data Release      [![Picture](https://raw.github.com/janeli
 
 This data was released as part of the 2015 Connectome Hackathon and represents the connectome at a slightly earlier snapshot of our 2015 PNAS [paper](http://www.pnas.org/content/112/44/13711.abstract).  A more up-to-date version of the raw data with segmentation and synapse annotation can be accessed at [https://github.com/janelia-flyem/ConnectomeHackathon2016/wiki/Accessing%20Optic%20Lobe%20Dataset%20using%20Google%20Cloud](https://github.com/janelia-flyem/ConnectomeHackathon2016/wiki/Accessing%20Optic%20Lobe%20Dataset%20using%20Google%20Cloud).
 
-See the [Hackathon Wiki](https://github.com/janelia-flyem/ConnectomeHackathon2015/wiki) for more information including documentation and use cases.
+See the [Hackathon Wiki](https://github.com/janelia-flyem/ConnectomeHackathon2015/wiki) for more information including documentation for this repo's data and use cases.
 
 The package includes (see the wiki for more detailed descriptions):
 * A directory of skeletons corresponding to the largest neurons in our dataset.  Each file is named by a unique body ID.
